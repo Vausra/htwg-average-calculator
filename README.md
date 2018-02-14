@@ -7,3 +7,8 @@ Goto HTML Notenspiegel page, save it as a html file
 ```
 pip intall argparse
 ```
+
+### Dependencies 
+
+* lxml
+* bs4 (beautifulsoup4)
